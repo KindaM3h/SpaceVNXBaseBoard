@@ -1,0 +1,2 @@
+# SpaceVNXBaseBoard
+Altium PCB Project
