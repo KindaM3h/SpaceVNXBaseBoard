@@ -6,6 +6,7 @@ Mitigations for Radiation Tolerance have been applied or identified for future r
 WIP - Pending finishing Routing, minimal changes in schematic expected
 ## Key Features
 - Based on Z-7030 in FBG676 package, provides a upgrade path with pin compatible parts in packages FBG676 and FFG676 namely Z-7030, Z-7035 and Z-7045.
+- ProAsic3 nano Rad-Tolerant Supervisor (can be upgraded to RT ProAsic3 or changed for a Rad-Hard MCU).
 - 1 Gbyte DDR3L conected to Processor System (x32 No ECC) implemented using MT41K256M16TW-107 AAT.
 - 2 Gbyte DDR3L connected to Programable Logic with EDAC protection (x72 ECC) implemented using MT41K256M16TW-107 AAT.
 - Zynq Configuration NOR Flash MT25QL128ABB8E12-0AUT (A second chip could be fitted instead of eMMC for redundancy).
