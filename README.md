@@ -1,9 +1,9 @@
 # SpaceVNXBaseBoard
 A SpaceVNX format (VITA 74.4) carrier based on Zynq-7000 series intended to be used as SDR Payload on CubeSat applications.
 Mitigations for Radiation Tolerance have been applied or identified for future revisions and is compliant to ECSS-Q-ST-70-12C where possible.
-WIP - Pending finishing Routing, minimal changes in schematic expected
 ![Post Placement Render](Images/SpaceVNXBaseBoard.png)
 ![Front Detail Render](Images/SpaceVNXBaseBoardFront.png)
+WIP - Pending finishing Routing, minimal changes in schematic expected
 ## Key Features
 - Based on Z-7030 in FBG676 package, provides a upgrade path with pin compatible parts in packages FBG676 and FFG676 namely Z-7030, Z-7035 and Z-7045.
 - 1 Gbyte DDR3L conected to Processor System (x32 No ECC) implemented using MT41K256M16TW-107 AAT.
